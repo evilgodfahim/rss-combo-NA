@@ -6,8 +6,8 @@ import requests
 
 # Two PolitePol feeds you gave
 FEEDS = [
-    "https://politepol.com/fd/sjcE9vQeC0vq.xml",
-    "https://politepol.com/fd/P9rziMVM8wgM.xml"
+    "https://politepaul.com/fd/sjcE9vQeC0vq.xml",
+    "https://politepaul.com/fd/P9rziMVM8wgM.xml"
 ]
 
 def get_identifier(entry):
